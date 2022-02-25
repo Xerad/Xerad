@@ -1,9 +1,12 @@
 ### Hi there 👋
 😚It's my first time with Git Herb. I look forward to your kind cooperation.
 
+💪I am currently receiving training at the multi-campus.
+
 😃I want to be a data analyst.
 
-💪I am currently receiving training at the multi-campus.
+😈I'm interested in Python and SQL.😈
+
 
 😵I will obtain a license for an information processing engineer and a big data analyst.😵
 
